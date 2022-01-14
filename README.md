@@ -2,7 +2,7 @@ Backup notes
 ==============
  Apple doesn't provide a convenient way to export notes from Notes.app, I wrote this AppleScript to make that possible and easier
 
-It saves each note as `folder_name/note_title.html`, since HTML is the native format. 
+Saves each note as `folder_name/note_title.html`, since HTML is the native format. 
 Unicode titles work, but I'd adviece not to use path delimiters in titles to avoid problems (`:` and `/`)
 
 
